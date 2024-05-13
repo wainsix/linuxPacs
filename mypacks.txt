@@ -112,3 +112,7 @@ xdg-utils
 xorg-xinit
 yay-git
 yay-git-debug
+
+# git clone https://aur.archlinux.org/yay-git.git
+# makepkg -si
+# yay -S google-chrome spotify visual-studio-code-bin
