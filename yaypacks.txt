@@ -1,0 +1,5 @@
+ sudo pacman -S - < mypacks.txt 
+
+ git clone https://aur.archlinux.org/yay-git.git
+ makepkg -si
+ yay -S google-chrome spotify visual-studio-code-bin

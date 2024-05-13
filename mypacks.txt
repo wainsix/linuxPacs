@@ -16,9 +16,7 @@ efibootmgr
 egl-wayland
 engrampa
 eom
-filemanager-actions
 git
-google-chrome
 grub
 gst-plugin-pipewire
 htop
@@ -93,26 +91,17 @@ pipewire-pulse
 plasma-meta
 plasma-workspace
 pluma
-protonup-qt
 qps
 qterminal
 screengrab
 slock
 smartmontools
 sof-firmware
-spotify
 steam
 vim
-visual-studio-code-bin
 wget
 wireless_tools
 wireplumber
 xdg-desktop-portal-lxqt
 xdg-utils
 xorg-xinit
-yay-git
-yay-git-debug
-
-# git clone https://aur.archlinux.org/yay-git.git
-# makepkg -si
-# yay -S google-chrome spotify visual-studio-code-bin
